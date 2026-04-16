@@ -1,0 +1,3 @@
+find odd one;tree,plant,seed,bag;3
+find odd one;teacher,office,bench,student;1
+find odd one;laptop,charger,mug,adapter;2

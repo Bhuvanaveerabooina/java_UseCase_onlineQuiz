@@ -1,0 +1,2 @@
+What is JVM in Java?;Java Virtual Machine,Java Variable Method,Joint Virtual Memory,Java Verified Mode;0
+Which keyword is used to inherit a class in Java?;implement,inherits,extends,super;2

@@ -1,0 +1,2 @@
+What is the primary key in a database?;Unique identifier,Duplicate value,Foreign key,Index;0
+Which language is used to query databases?;Python,SQL,Java,HTML;1
