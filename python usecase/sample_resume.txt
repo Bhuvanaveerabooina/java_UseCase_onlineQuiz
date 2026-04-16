@@ -1,0 +1,22 @@
+John Doe
+Email: john.doe@example.com
+
+Profile
+Recent computer science graduate with strong foundation in software development, data analysis, and machine learning.
+
+Skills
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Communication
+- Teamwork
+- Git
+- Microsoft Excel
+
+Projects
+- Resume Analyzer: built a Python tool to extract keywords and compare resumes with job descriptions.
+- Campus Recruitment System: designed a web dashboard to track job applications and candidate progress.
+
+Education
+Bachelor of Science in Computer Science

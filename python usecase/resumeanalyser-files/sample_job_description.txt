@@ -1,0 +1,49 @@
+Job Title: Junior Data Analyst
+
+Company: NextWave Analytics
+
+Location: Hyderabad, India
+
+Job Type: Full-time
+
+Job Description:
+We are looking for a motivated Junior Data Analyst to join our team. The ideal candidate should be able to work with data, generate reports, and support business decision-making with clear insights.
+
+Responsibilities:
+- Collect, clean, and analyze data from multiple sources
+- Create dashboards and reports for stakeholders
+- Write SQL queries to extract and manipulate data
+- Use Python for basic data analysis and automation
+- Work with Excel for reporting and data validation
+- Communicate findings clearly to team members
+- Collaborate with cross-functional teams on data-driven projects
+
+Required Skills:
+- Python
+- SQL
+- Excel
+- Data Cleaning
+- Data Analysis
+- Communication
+- Problem Solving
+- Teamwork
+
+Preferred Skills:
+- Pandas
+- NumPy
+- Power BI
+- Tableau
+- Statistics
+- Machine Learning basics
+- Git
+
+Qualification:
+- Bachelor’s degree in Computer Science, Data Science, Statistics, or related field
+- Freshers and recent graduates can apply
+
+Experience:
+- 0 to 1 year
+
+Nice to Have:
+- Internship or academic project experience in analytics
+- Basic understanding of business reporting
