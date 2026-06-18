@@ -1,0 +1,18 @@
+Job Title: Entry-Level Data Analyst
+
+We are looking for a motivated graduate with a passion for data and technology.
+
+Requirements
+- Python
+- SQL
+- Data Analysis
+- Excel
+- Communication
+- Problem Solving
+- Teamwork
+- Reporting
+
+Responsibilities
+- Analyze data and generate reports.
+- Support business teams with insights.
+- Maintain dashboards and documentation.
